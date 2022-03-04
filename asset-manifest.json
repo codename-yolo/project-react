@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/project-reactjs/static/css/main.b37406fb.css",
-    "main.js": "/project-reactjs/static/js/main.5e7b9fce.js",
-    "static/media/client3.png": "/project-reactjs/static/media/client3.93cfa15bf88ef1e0c8be.png",
-    "static/media/me.png": "/project-reactjs/static/media/me.21a98278e27771861627.png",
-    "static/media/client2.png": "/project-reactjs/static/media/client2.3707973acdb179a012cb.png",
-    "static/media/about-me.png": "/project-reactjs/static/media/about-me.530a46152b334099a1e5.png",
-    "static/media/client1.png": "/project-reactjs/static/media/client1.138fb997cbe89db26628.png",
-    "static/media/cv.pdf": "/project-reactjs/static/media/cv.ceacc15442c7461e84d8.pdf",
-    "static/media/portfolio3.webp": "/project-reactjs/static/media/portfolio3.bad652c20b104b0b43f2.webp",
-    "static/media/portfolio4.webp": "/project-reactjs/static/media/portfolio4.c23aeb4d10c017d02e8b.webp",
-    "static/media/bg-fabric.jpeg": "/project-reactjs/static/media/bg-fabric.a24e7b831eb098609975.jpeg",
-    "static/media/portfolio1.webp": "/project-reactjs/static/media/portfolio1.3d7b2ab97019aa79be3a.webp",
-    "static/media/portfolio5.webp": "/project-reactjs/static/media/portfolio5.89055e058d2258a6e95d.webp",
-    "static/media/portfolio2.webp": "/project-reactjs/static/media/portfolio2.32572702b08874072f96.webp",
-    "index.html": "/project-reactjs/index.html",
-    "main.b37406fb.css.map": "/project-reactjs/static/css/main.b37406fb.css.map",
-    "main.5e7b9fce.js.map": "/project-reactjs/static/js/main.5e7b9fce.js.map"
+    "main.css": "/project-react/static/css/main.76460a99.css",
+    "main.js": "/project-react/static/js/main.218ea8c3.js",
+    "static/media/client3.png": "/project-react/static/media/client3.93cfa15bf88ef1e0c8be.png",
+    "static/media/me.png": "/project-react/static/media/me.21a98278e27771861627.png",
+    "static/media/client2.png": "/project-react/static/media/client2.3707973acdb179a012cb.png",
+    "static/media/about-me.png": "/project-react/static/media/about-me.530a46152b334099a1e5.png",
+    "static/media/client1.png": "/project-react/static/media/client1.138fb997cbe89db26628.png",
+    "static/media/cv.pdf": "/project-react/static/media/cv.ceacc15442c7461e84d8.pdf",
+    "static/media/portfolio3.webp": "/project-react/static/media/portfolio3.bad652c20b104b0b43f2.webp",
+    "static/media/portfolio4.webp": "/project-react/static/media/portfolio4.c23aeb4d10c017d02e8b.webp",
+    "static/media/bg-fabric.jpeg": "/project-react/static/media/bg-fabric.a24e7b831eb098609975.jpeg",
+    "static/media/portfolio1.webp": "/project-react/static/media/portfolio1.3d7b2ab97019aa79be3a.webp",
+    "static/media/portfolio5.webp": "/project-react/static/media/portfolio5.89055e058d2258a6e95d.webp",
+    "static/media/portfolio2.webp": "/project-react/static/media/portfolio2.32572702b08874072f96.webp",
+    "index.html": "/project-react/index.html",
+    "main.76460a99.css.map": "/project-react/static/css/main.76460a99.css.map",
+    "main.218ea8c3.js.map": "/project-react/static/js/main.218ea8c3.js.map"
   },
   "entrypoints": [
-    "static/css/main.b37406fb.css",
-    "static/js/main.5e7b9fce.js"
+    "static/css/main.76460a99.css",
+    "static/js/main.218ea8c3.js"
   ]
 }
